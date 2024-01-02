@@ -44,17 +44,16 @@ The project directory is structured as follows:
 # Setup Instructions
 To set up the project locally, follow these steps:
 
-Clone the repository:
+1.Clone the repository:
 
-bash
-Copy code
+```
 git clone https://github.com/yourusername/amazon-clone.git
-Navigate to the project directory:
+```
+2.Navigate to the project directory:
+<br>```cd amazon-clone```
+<br>
 
-bash
-Copy code
-cd amazon-clone
-Open index.html in a web browser to view the Amazon clone website.
+3.Open ```index.html``` in a web browser to view the Amazon clone website.
 
 # Usage
 Once you have set up the project, you can explore the Amazon clone website by opening index.html in a web browser. Navigate through the various sections such as the navigation bar, product displays, and footer to experience the user interface.
