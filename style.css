@@ -18,7 +18,7 @@
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Famazon-icon-editorial-logo-isolated-260nw-2308438905.jpg&tbnid=kMxosjUtD1HDAM&vet=12ahUKEwjLoOWQ7u2DAxXLZGwGHZ3_An8QMygDegQIARA4..i&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Famazon-logo&docid=oG0FW-agN2R18M&w=823&h=280&q=amazon%20transparent%20logo&ved=2ahUKEwjLoOWQ7u2DAxXLZGwGHZ3_An8QMygDegQIARA4");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -94,7 +94,7 @@
 
 /**Box-4**/
 .lang {
-   background-image: url("logo.avif");
+   background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F22%2F171722-131-E03A7DB5%2FUnion-Jack-British-Flag-of-Great-Britain.jpg&tbnid=s-Y4aK4OxD3gvM&vet=12ahUKEwi7yKjw7e2DAxXps2MGHWqwA10QMygEegQIARB7..i&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fplace%2FEngland&docid=PKjCW5f_3K20oM&w=900&h=675&itg=1&q=england&ved=2ahUKEwi7yKjw7e2DAxXps2MGHWqwA10QMygEegQIARB7");
    background-size: cover;
    height: 50px;
    width: 100%;
@@ -152,7 +152,7 @@
 
 /**hero-section**/
 .hero-section{
-    background-image: url("herobox_image.jpg");
+    background-image: url("https://www.amazon.com/gp/goldbox/?ie=UTF8&pd_rd_w=H6RHR&content-id=amzn1.sym.f6b66aaf-88cb-42d3-9ebc-b1f74e2387e8&pf_rd_p=f6b66aaf-88cb-42d3-9ebc-b1f74e2387e8&pf_rd_r=WFFRCFASFWV3TPB5A0PK&pd_rd_wg=iXWxl&pd_rd_r=fab02189-d44c-4cbd-9c71-d72d7273f255");
     background-size: cover;
     height: 380px;
     display: flex;
